@@ -61,8 +61,6 @@ Arbitrage program
 ---
 ☎️ Contact
 - GitHub:    https://github.com/katlogic/
-- Telegram:  tomorrow_150
-- Discord:   soldev098303
 ---
 🌟 Acknowledgements
 ### Used libraries
@@ -93,8 +91,7 @@ Arbitrage program
 This bot is beta version , so can make small profit, but can't expect big profit.
 If you want more profit, please feel free to reach out me.
 
-- Telegram:  tomorrow_150
-- Discord:   soldev098303
+
 ---
 📖 How to use.
 - Setup environments variable such as private key, rpc, grpc urls
