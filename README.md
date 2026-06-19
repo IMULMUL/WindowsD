@@ -5,6 +5,11 @@ The purpose of this bot is to build token selection module, price calculation mo
 🧩 About
 - This project provide several arbitrage modules and core smart contract for trying 2-hop, 3-hop, 4-hop swaps.
 ---
+tip
+- (🌟🌟🌟click and signup! so your polymarket account will be boosted instantly)<a href="https://polymarket.com/?r=cryptoking1106">
+<img width="277" height="45" alt="image" src="https://github.com/user-attachments/assets/06fc93ff-82b6-4199-b285-e11117fa0dea" />
+
+---
 ✨ Features
 - Dynamic token selection module
  Bot update token list for arbitrage in real time for trending tokens.
